@@ -1,0 +1,22 @@
+{
+  "name": "tw-bench",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@tailwindcss/node": "^4.0.0-alpha.21",
+    "@tailwindcss/vite": "4.0.0-beta.6",
+    "bun-plugin-tailwind": "^0.0.13",
+    "lightningcss": "^1.28.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "rolldown": "^1.0.0-beta.1",
+    "rolldown-vite": "https://github.com/rolldown/vite",
+    "vite": "^6.0.3"
+  }
+}
