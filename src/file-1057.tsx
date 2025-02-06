@@ -1,3 +1,4 @@
+import "./style.css";
 import React, { useState } from 'react';
 
 const BunFullstackShowcase: React.FC = () => {

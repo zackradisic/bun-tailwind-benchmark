@@ -1,3 +1,4 @@
+import "./style.css";
 export default function BunFullstackDemo() {
   const [count, setCount] = React.useState(0);
   const [serverData, setServerData] = React.useState<string[]>([]);

@@ -1,3 +1,4 @@
+import "./style.css";
 import React from 'react';
 
 // Tailwind class for styling

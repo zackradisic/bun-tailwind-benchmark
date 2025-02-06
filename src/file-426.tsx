@@ -1,3 +1,4 @@
+import "./style.css";
 export default function BunFullstackDemo() {
   const [loading, setLoading] = useState(false);
   const [data, setData] = useState<string[]>([]);

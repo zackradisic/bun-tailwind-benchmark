@@ -1,3 +1,4 @@
+import "./style.css";
 import React from 'react';
 
 // Server-side function to fetch data from API

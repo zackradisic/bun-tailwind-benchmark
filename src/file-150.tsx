@@ -1,3 +1,4 @@
+import "./style.css";
 import React, { useState, useEffect } from 'react';
 
 const FullstackBunDemo: React.FC = () => {

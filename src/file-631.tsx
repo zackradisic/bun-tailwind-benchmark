@@ -1,3 +1,4 @@
+import "./style.css";
 export default function BunFullstackDemo() {
   const [apiResponse, setApiResponse] = useState<string>("");
   const [isLoading, setIsLoading] = useState(false);

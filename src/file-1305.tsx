@@ -1,3 +1,4 @@
+import "./style.css";
 // App.tsx
 import { useEffect, useState } from "react";
 

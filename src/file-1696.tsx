@@ -1,3 +1,4 @@
+import "./style.css";
 import { useEffect, useState } from 'react';
 
 // Tailwind CSS component to showcase Bun's server and client integration

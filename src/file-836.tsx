@@ -1,3 +1,4 @@
+import "./style.css";
 export default function BunFullstackDemo() {
   const [users, setUsers] = useState<{id: number, name: string}[]>([]);
   const [loading, setLoading] = useState(false);

@@ -1,3 +1,4 @@
+import "./style.css";
 // MyComponent.tsx
 import React from 'react';
 

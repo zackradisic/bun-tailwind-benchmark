@@ -1,3 +1,4 @@
+import "./style.css";
 export default function BunFullstackDemo() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-900 to-gray-800 text-white p-8">

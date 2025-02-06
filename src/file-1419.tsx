@@ -1,3 +1,4 @@
+import "./style.css";
 // src/App.tsx
 import React from 'react';
 

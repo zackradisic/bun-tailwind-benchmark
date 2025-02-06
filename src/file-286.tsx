@@ -1,3 +1,4 @@
+import "./style.css";
 import { FC, useEffect, useState } from 'react';
 
 const App: FC = () => {

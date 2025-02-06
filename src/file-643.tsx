@@ -1,3 +1,4 @@
+import "./style.css";
 import { useEffect, useState } from "react";
 
 const MyFullstackApp = () => {

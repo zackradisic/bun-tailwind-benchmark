@@ -1,3 +1,4 @@
+import "./style.css";
 import React from 'react';
 
 // Create a functional component to showcase Bun with Tailwind integration
